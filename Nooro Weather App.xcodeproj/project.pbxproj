@@ -6,10 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		7F959E952D11E12D0037C304 /* Paste File in Resources */ = {isa = PBXBuildFile; fileRef = 7F959E942D11E12D0037C304 /* Paste File */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		7F959E5F2D114FE80037C304 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -31,7 +27,6 @@
 		7F959E4E2D114FE60037C304 /* Nooro Weather App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Nooro Weather App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F959E5E2D114FE80037C304 /* Nooro Weather AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Nooro Weather AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F959E682D114FE80037C304 /* Nooro Weather AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Nooro Weather AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7F959E942D11E12D0037C304 /* Paste File */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Paste File"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -80,7 +75,6 @@
 		7F959E452D114FE60037C304 = {
 			isa = PBXGroup;
 			children = (
-				7F959E942D11E12D0037C304 /* Paste File */,
 				7F959E502D114FE60037C304 /* Nooro Weather App */,
 				7F959E612D114FE80037C304 /* Nooro Weather AppTests */,
 				7F959E6B2D114FE80037C304 /* Nooro Weather AppUITests */,
@@ -218,7 +212,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7F959E952D11E12D0037C304 /* Paste File in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
